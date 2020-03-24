@@ -71,5 +71,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ![image](https://user-images.githubusercontent.com/45466806/77447365-e2ecc300-6def-11ea-98c3-741389ef8218.PNG)
 
-U can test by submitting the form and noticing the json object is been stores
+U can test by submitting the form and noticing the json object is been stored
 
